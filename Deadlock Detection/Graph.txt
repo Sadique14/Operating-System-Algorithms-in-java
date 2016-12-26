@@ -1,0 +1,14 @@
+13
+R A. 0
+A. S 0
+C. S 0
+S 0
+F. S 0
+W F. 0
+D. S T 0
+T E. 0
+U D. 0
+G. U 0
+B. T 0
+E. V 0
+V G. 0
